@@ -1,0 +1,1 @@
+The Firebase Realtime Database sometimes throws a `DatabaseError: permission_denied` error even when the security rules seem correct.  This often occurs when dealing with nested data or complex queries, and the error message doesn't always pinpoint the exact location of the issue.
